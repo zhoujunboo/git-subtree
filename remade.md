@@ -1,1 +1,3 @@
 remade
+这是一个sub-tree父级项目
+主要测试通过subtree添加子项目 test-git-submodule
