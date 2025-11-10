@@ -1,0 +1,3 @@
+[submodule "child2"]
+	path = child2
+	url = https://github.com/zhoujunboo/test-git-submodule.git
